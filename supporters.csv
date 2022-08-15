@@ -2,7 +2,7 @@ name,given_name,Interests,CAA member,sig-speaker,sig-coordinator
 Bruhn,Kai-Christian,LOD,X,,
 Gruber,Ethan,"LOD, Numismatics",X,,X
 Homburg,Timo,"LOD, Geodata",,,
-Klammt, Anne, "LOD, Art History, Archaeology",X,,
+Klammt, Anne," ""LOD", Art History," Archaeology""",X
 Muccigrosso,John,LOD,,,
 Nobles,Gary,LOD,X,,
 Schmidt,Sophie Charlotte,"LOD, Wikidata",X,,
@@ -13,3 +13,4 @@ Vitale,Valeria,"LOD, Pelagios, Gazetteers",X,,
 Wigg-Wolf,David,"LOD, Numismatics",X,,X
 Mees,Allard,"LOD, Samian Ware",X,,
 Binding,Ceri,"LOD, Knowledge Organization Systems",X,,
+Bischoff,Robert,"LOD, Geodata, Digital Archiving",X,,
